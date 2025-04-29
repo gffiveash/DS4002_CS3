@@ -2,7 +2,7 @@
 ## Map of Documentation
 
 **Data**
-  - **Cleaned Individual Data**
+  - Cleaned Individual Data
     - All 18 of the cleaned CSV files for each Sephora product 
   - combined_clean_data.csv is the final dataset, which is what you should achieve after completing the 1_Combination_VADER_Analysis.ipbynb code
  
@@ -12,4 +12,5 @@
   - 3_Logistic_Regression.ipynb - script for analysing logistic regression
 
 **Supporting Materials**
+
 There are two articles that describe our intial motivation and interest in celebrity-branded makeup products. There is an additional resource describing VADER Sentiment Analysis.
